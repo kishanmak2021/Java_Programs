@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Main
+public class ReverseTheNumber
 {
   public static void main (String[]args)
   {
